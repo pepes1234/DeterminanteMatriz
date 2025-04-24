@@ -7,6 +7,7 @@
 ## 💡 Sobre o Projeto
 
 Programa com intenção de calcular uma matriz quadrada 2x2 ou 3x3. O programa solicita ao usuário que insira a ordem da matriz e os elementos linha por linha, processando os dados para fornecer o determinante correspondente.
+---
 
 ## 🚀 Como Utilizar
 
@@ -20,6 +21,8 @@ Exemplo:
 
 Será inserido na ordem:
 1,4,7,2,5,8,3,6,9.
+
+---
 
 1. **Clone o repositório:**
 
