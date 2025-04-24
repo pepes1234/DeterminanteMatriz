@@ -6,15 +6,7 @@
 
 ## 💡 Sobre o Projeto
 
-O **DeterminanteMatriz** é uma ferramenta desenvolvida em Python que permite ao usuário calcular o determinante de uma matriz quadrada de forma interativa. O programa solicita ao usuário que insira a ordem da matriz e os elementos linha por linha, processando os dados para fornecer o determinante correspondente.
-
----
-
-## 🖼️ Exemplo de Uso
-
-![Exemplo de uso do DeterminanteMatriz](https://raw.githubusercontent.com/pepes1234/DeterminanteMatriz/main/assets/exemplo-uso.png)
-
----
+Programa com intenção de calcular uma matriz quadrada 2x2 ou 3x3. O programa solicita ao usuário que insira a ordem da matriz e os elementos linha por linha, processando os dados para fornecer o determinante correspondente.
 
 ## 🚀 Como Utilizar
 
