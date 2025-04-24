@@ -16,11 +16,11 @@ Valores da matriz seram escritos por ordem de Linhas
 
 Exemplo:
 
-1 4 7  
+1  4  7  
 
-2 5 8
+2  5  8
 
-3 6 9
+3  6  9
 
 Será inserido na ordem:
 1,4,7,2,5,8,3,6,9.
