@@ -17,7 +17,9 @@ Valores da matriz seram escritos por ordem de Linhas
 Exemplo:
 
 1 4 7  
+
 2 5 8
+
 3 6 9
 
 Será inserido na ordem:
