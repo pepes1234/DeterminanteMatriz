@@ -7,6 +7,7 @@
 ## 💡 Sobre o Projeto
 
 Programa com intenção de calcular uma matriz quadrada 2x2 ou 3x3. O programa solicita ao usuário que insira a ordem da matriz e os elementos linha por linha, processando os dados para fornecer o determinante correspondente.
+
 ---
 
 ## 🚀 Como Utilizar
